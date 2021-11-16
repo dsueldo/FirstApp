@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330494147511",
+    "project_id": "remotecsolutionsperu",
+    "storage_bucket": "remotecsolutionsperu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330494147511:android:d653926670b6e5eb3cc632",
+        "android_client_info": {
+          "package_name": "pe.remotecsolutions.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330494147511-4kasoq0nkuhje416jtt0mvqlq9vi5v3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfXKH1DAZwZAzLJRtzdBDCAcQr7ytWPPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330494147511-4kasoq0nkuhje416jtt0mvqlq9vi5v3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
